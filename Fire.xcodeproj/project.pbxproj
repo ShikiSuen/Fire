@@ -27,13 +27,13 @@
 		67C9A0132AB53EB0000B5281 /* build.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0122AB53EB0000B5281 /* build.swift */; };
 		67C9A0312AB53ED3000B5281 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 67C9A0152AB53ED2000B5281 /* InfoPlist.strings */; };
 		67C9A0322AB53ED3000B5281 /* CandidatesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0182AB53ED2000B5281 /* CandidatesView.swift */; };
-		67C9A0342AB53ED3000B5281 /* FireMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A01A2AB53ED2000B5281 /* FireMenu.swift */; };
+		67C9A0342AB53ED3000B5281 /* FireInputController_Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A01A2AB53ED2000B5281 /* FireInputController_Menu.swift */; };
 		67C9A0352AB53ED3000B5281 /* ThemeConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A01C2AB53ED2000B5281 /* ThemeConfig.swift */; };
 		67C9A0362AB53ED3000B5281 /* DictManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A01D2AB53ED2000B5281 /* DictManager.swift */; };
 		67C9A0372AB53ED3000B5281 /* wb_table.txt in Resources */ = {isa = PBXBuildFile; fileRef = 67C9A01F2AB53ED3000B5281 /* wb_table.txt */; };
 		67C9A0382AB53ED3000B5281 /* py_table.txt in Resources */ = {isa = PBXBuildFile; fileRef = 67C9A0202AB53ED3000B5281 /* py_table.txt */; };
 		67C9A0392AB53ED3000B5281 /* wb_98_table.txt in Resources */ = {isa = PBXBuildFile; fileRef = 67C9A0212AB53ED3000B5281 /* wb_98_table.txt */; };
-		67C9A03A2AB53ED3000B5281 /* FireInputServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0222AB53ED3000B5281 /* FireInputServer.swift */; };
+		67C9A03A2AB53ED3000B5281 /* FireInputController_Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0222AB53ED3000B5281 /* FireInputController_Server.swift */; };
 		67C9A03C2AB53ED3000B5281 /* StatisticsPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0252AB53ED3000B5281 /* StatisticsPane.swift */; };
 		67C9A03D2AB53ED3000B5281 /* FirePreferencesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0262AB53ED3000B5281 /* FirePreferencesController.swift */; };
 		67C9A03E2AB53ED3000B5281 /* UserDictPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C9A0272AB53ED3000B5281 /* UserDictPane.swift */; };
@@ -91,13 +91,13 @@
 		67C9A0172AB53ED2000B5281 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
 		67C9A0182AB53ED2000B5281 /* CandidatesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CandidatesView.swift; sourceTree = "<group>"; };
 		67C9A0192AB53ED2000B5281 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		67C9A01A2AB53ED2000B5281 /* FireMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireMenu.swift; sourceTree = "<group>"; };
+		67C9A01A2AB53ED2000B5281 /* FireInputController_Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireInputController_Menu.swift; sourceTree = "<group>"; };
 		67C9A01C2AB53ED2000B5281 /* ThemeConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeConfig.swift; sourceTree = "<group>"; };
 		67C9A01D2AB53ED2000B5281 /* DictManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictManager.swift; sourceTree = "<group>"; };
 		67C9A01F2AB53ED3000B5281 /* wb_table.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wb_table.txt; sourceTree = "<group>"; };
 		67C9A0202AB53ED3000B5281 /* py_table.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = py_table.txt; sourceTree = "<group>"; };
 		67C9A0212AB53ED3000B5281 /* wb_98_table.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wb_98_table.txt; sourceTree = "<group>"; };
-		67C9A0222AB53ED3000B5281 /* FireInputServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireInputServer.swift; sourceTree = "<group>"; };
+		67C9A0222AB53ED3000B5281 /* FireInputController_Server.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireInputController_Server.swift; sourceTree = "<group>"; };
 		67C9A0232AB53ED3000B5281 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67C9A0252AB53ED3000B5281 /* StatisticsPane.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsPane.swift; sourceTree = "<group>"; };
 		67C9A0262AB53ED3000B5281 /* FirePreferencesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirePreferencesController.swift; sourceTree = "<group>"; };
@@ -178,32 +178,32 @@
 		67C99FEA2AB53DB2000B5281 /* Fire */ = {
 			isa = PBXGroup;
 			children = (
+				67C9A0142AB53ED2000B5281 /* en.lproj */,
+				67C9A0242AB53ED3000B5281 /* Preferences */,
+				67C9A01E2AB53ED3000B5281 /* Resources */,
 				67C9A0552AB5429B000B5281 /* SQLCipher */,
-				67C9A0232AB53ED3000B5281 /* Assets.xcassets */,
+				67C9A0112AB53EB0000B5281 /* Table */,
+				67C9A01B2AB53ED2000B5281 /* Theme */,
+				67C99FF82AB53E62000B5281 /* Utils */,
+				67C9A02E2AB53ED3000B5281 /* zh-Hans.lproj */,
+				67C99FF22AB53DB4000B5281 /* Fire.entitlements */,
 				67C9A0172AB53ED2000B5281 /* Bridging-Header.h */,
+				67C9A0052AB53E83000B5281 /* fire.pdf */,
+				67C9A0192AB53ED2000B5281 /* Info.plist */,
+				67C99FEB2AB53DB2000B5281 /* AppDelegate.swift */,
 				67C9A0182AB53ED2000B5281 /* CandidatesView.swift */,
 				67C9A02D2AB53ED3000B5281 /* CandidatesWindow.swift */,
 				67C9A01D2AB53ED2000B5281 /* DictManager.swift */,
-				67C9A0142AB53ED2000B5281 /* en.lproj */,
-				67C9A0222AB53ED3000B5281 /* FireInputServer.swift */,
-				67C9A01A2AB53ED2000B5281 /* FireMenu.swift */,
-				67C9A0192AB53ED2000B5281 /* Info.plist */,
-				67C9A0242AB53ED3000B5281 /* Preferences */,
-				67C9A01E2AB53ED3000B5281 /* Resources */,
-				67C9A01B2AB53ED2000B5281 /* Theme */,
-				67C9A02E2AB53ED3000B5281 /* zh-Hans.lproj */,
-				67C9A0112AB53EB0000B5281 /* Table */,
-				67C9A0052AB53E83000B5281 /* fire.pdf */,
 				67C9A0062AB53E83000B5281 /* Fire.swift */,
+				67C9A01A2AB53ED2000B5281 /* FireInputController_Menu.swift */,
+				67C9A0222AB53ED3000B5281 /* FireInputController_Server.swift */,
 				67C9A0072AB53E83000B5281 /* FireInputController.swift */,
 				67C9A0022AB53E83000B5281 /* InputSource.swift */,
-				67C9A0012AB53E83000B5281 /* MainMenu.xib */,
 				67C9A0042AB53E83000B5281 /* StatusBar.swift */,
 				67C9A0082AB53E83000B5281 /* types.swift */,
 				67C9A0032AB53E83000B5281 /* Utils.swift */,
-				67C99FF82AB53E62000B5281 /* Utils */,
-				67C99FEB2AB53DB2000B5281 /* AppDelegate.swift */,
-				67C99FF22AB53DB4000B5281 /* Fire.entitlements */,
+				67C9A0232AB53ED3000B5281 /* Assets.xcassets */,
+				67C9A0012AB53E83000B5281 /* MainMenu.xib */,
 			);
 			path = Fire;
 			sourceTree = "<group>";
@@ -414,14 +414,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67C9A03A2AB53ED3000B5281 /* FireInputServer.swift in Sources */,
+				67C9A03A2AB53ED3000B5281 /* FireInputController_Server.swift in Sources */,
 				67C9A00F2AB53E83000B5281 /* FireInputController.swift in Sources */,
 				67C99FEC2AB53DB2000B5281 /* AppDelegate.swift in Sources */,
 				67C9A00A2AB53E83000B5281 /* InputSource.swift in Sources */,
 				67C9A0352AB53ED3000B5281 /* ThemeConfig.swift in Sources */,
 				67C99FFE2AB53E62000B5281 /* Statistics.swift in Sources */,
 				67C9A0432AB53ED3000B5281 /* PunctuationPane.swift in Sources */,
-				67C9A0342AB53ED3000B5281 /* FireMenu.swift in Sources */,
+				67C9A0342AB53ED3000B5281 /* FireInputController_Menu.swift in Sources */,
 				67C9A00C2AB53E83000B5281 /* StatusBar.swift in Sources */,
 				67C9A03D2AB53ED3000B5281 /* FirePreferencesController.swift in Sources */,
 				67C9A03C2AB53ED3000B5281 /* StatisticsPane.swift in Sources */,
